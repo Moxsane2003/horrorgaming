@@ -1,0 +1,86 @@
+{
+    "journal": {
+      "nomJournal": "Horror Gaming",
+      "phraseAccroche": "Le site d'actualité dédié aux jeux vidéos d'horreur",
+      "texteAppelAction": "Rejoignez notre newsletter pour rester à jour !",
+      "articlePrincipal": {
+        "titre": "Les jeux d'horreur les plus attendus de l'année",
+        "description": "Découvrez les titres qui vont vous faire frissonner en 2024.",
+        "date": "25 Avril 2024",
+        "theme": "Jeux vidéos d'horreur",
+        "image":""
+      },
+      "articles": [
+        {
+          "titre": "Analyse de Resident Evil 9 : retour aux origines de l'horreur",
+          "date": "20 Avril 2024",
+          "theme": "Critique",
+          "image":""
+        },
+        {
+          "titre": "Entretien exclusif avec les créateurs de Silent Hill : le futur de la franchise",
+          "date": "15 Avril 2024",
+          "theme": "Interview",
+          "image":""
+        },
+        {
+          "titre": "Top 10 des moments les plus effrayants dans les jeux vidéos",
+          "date": "5 Avril 2024",
+          "theme": "Liste",
+          "image":""
+        },
+        {
+          "titre": "Les influences du cinéma d'horreur dans les jeux vidéos contemporains",
+          "date": "28 Mars 2024",
+          "theme": "Analyse",
+          "image":""
+        },
+        {
+          "titre": "Découverte : les jeux indépendants d'horreur à surveiller",
+          "date": "20 Mars 2024",
+          "theme": "Indépendant",
+          "image":""
+        }
+      ],
+      "themes": [
+        {
+          "nom": "Critique",
+          "description": "Critiques approfondies des derniers jeux vidéos d'horreur."
+        },
+        {
+          "nom": "Interview",
+          "description": "Entretiens exclusifs avec les créateurs et développeurs de jeux d'horreur."
+        },
+        {
+          "nom": "Liste",
+          "description": "Sélections des moments les plus effrayants et des meilleurs jeux d'horreur."
+        },
+        {
+          "nom": "Analyse",
+          "description": "Analyse des thèmes, des influences et des techniques dans les jeux vidéos d'horreur."
+        },
+        {
+          "nom": "Indépendant",
+          "description": "Découverte des jeux indépendants d'horreur et des nouveaux talents du genre."
+        }
+      ],
+      "auteurs": [
+        {
+          "prenom": "Alex",
+          "typeExperience": "Expert en jeux d'horreur",
+          "presentation": "Passionné par l'horreur depuis mon plus jeune âge, je décortique les jeux les plus terrifiants pour vous offrir les meilleures critiques et analyses."
+        },
+        {
+          "prenom": "Sara",
+          "typeExperience": "Journaliste spécialisée",
+          "presentation": "Je suis une exploratrice de l'horreur vidéoludique, toujours à la recherche des dernières nouveautés et des tendances dans le monde des jeux d'horreur."
+        },
+        {
+          "prenom": "Max",
+          "typeExperience": "Rédacteur en chef",
+          "presentation": "Je suis passionné par l'horreur sous toutes ses formes, et je m'efforce d'apporter une perspective éclairée sur les jeux d'horreur les plus captivants du moment."
+        }
+      ]
+    }
+  }
+  
