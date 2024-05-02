@@ -126,9 +126,9 @@ function touslesauteurs() {
 function Accroche(){
 let phrase = data.journal.phraseAccroche
 console.log(phrase);
-let approcheId = document.getElementById("phraseAccroche")
+let approcheId = document.getElementById("hdesign")
 console.log(approcheId); 
-let titreAccroche = `<h1>${phrase}</h1> `
+let titreAccroche = `<h1 class = "police">${phrase}</h1> `
 console.log(titreAccroche);
 approcheId.insertAdjacentHTML("beforeend", titreAccroche)
 }
