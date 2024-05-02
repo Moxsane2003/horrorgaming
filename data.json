@@ -8,77 +8,91 @@
         "description": "Découvrez les titres qui vont vous faire frissonner en 2024.",
         "date": "25 Avril 2024",
         "theme": "Jeux vidéos d'horreur",
-        "image":""
+        "image":"evil.avif"
       },
       "articles": [
         {
           "titre": "Analyse de Resident Evil 9 : retour aux origines de l'horreur",
           "date": "20 Avril 2024",
           "theme": "Critique",
-          "image":""
+          "image":"resident 9.webp"
         },
         {
           "titre": "Entretien exclusif avec les créateurs de Silent Hill : le futur de la franchise",
           "date": "15 Avril 2024",
           "theme": "Interview",
-          "image":""
+          "image":"silent hill.jpg"
         },
         {
           "titre": "Top 10 des moments les plus effrayants dans les jeux vidéos",
           "date": "5 Avril 2024",
           "theme": "Liste",
-          "image":""
+          "image":"top 10.jpg"
         },
         {
           "titre": "Les influences du cinéma d'horreur dans les jeux vidéos contemporains",
           "date": "28 Mars 2024",
           "theme": "Analyse",
-          "image":""
+          "image":"film horreur.jpg"
         },
         {
           "titre": "Découverte : les jeux indépendants d'horreur à surveiller",
           "date": "20 Mars 2024",
           "theme": "Indépendant",
-          "image":""
+          "image":"horror à surveiller.jpg"
         }
       ],
       "themes": [
         {
           "nom": "Critique",
-          "description": "Critiques approfondies des derniers jeux vidéos d'horreur."
+          "description": "Critiques approfondies des derniers jeux vidéos d'horreur.",
+          "image": "Cinq.jpg"
         },
         {
           "nom": "Interview",
-          "description": "Entretiens exclusifs avec les créateurs et développeurs de jeux d'horreur."
+          "description": "Entretiens exclusifs avec les créateurs et développeurs de jeux d'horreur.",
+          "image": "topqualité.jpg"
         },
         {
           "nom": "Liste",
-          "description": "Sélections des moments les plus effrayants et des meilleurs jeux d'horreur."
+          "description": "Sélections des moments les plus effrayants et des meilleurs jeux d'horreur.",
+          "image": "interview.webp"
         },
         {
           "nom": "Analyse",
-          "description": "Analyse des thèmes, des influences et des techniques dans les jeux vidéos d'horreur."
+          "description": "Analyse des thèmes, des influences et des techniques dans les jeux vidéos d'horreur.",
+          "image": "repondant.webp"
         },
         {
           "nom": "Indépendant",
-          "description": "Découverte des jeux indépendants d'horreur et des nouveaux talents du genre."
+          "description": "Découverte des jeux indépendants d'horreur et des nouveaux talents du genre.",
+          "image": "indé.jpg"
         }
       ],
       "auteurs": [
         {
-          "prenom": "Alex",
+          "prenom": "Alex Madfinger",
           "typeExperience": "Expert en jeux d'horreur",
-          "presentation": "Passionné par l'horreur depuis mon plus jeune âge, je décortique les jeux les plus terrifiants pour vous offrir les meilleures critiques et analyses."
-        },
+          "presentation": "Passionné par l'horreur depuis mon plus jeune âge, je décortique les jeux les plus terrifiants pour vous offrir les meilleures critiques et analyses.",
+          "image": "fille 1.jpg",
+          "icone": "fa-brands fa-instagram fa-2xl"
+          
+           
+        }, 
         {
-          "prenom": "Sara",
+          "prenom": "Sara Exclofield",
           "typeExperience": "Journaliste spécialisée",
-          "presentation": "Je suis une exploratrice de l'horreur vidéoludique, toujours à la recherche des dernières nouveautés et des tendances dans le monde des jeux d'horreur."
-        },
+          "presentation": "Je suis une exploratrice de l'horreur vidéoludique, toujours à la recherche des dernières nouveautés et des tendances dans le monde des jeux d'horreur.",
+        "image": "homme.avif",
+        "icone": "fa-brands fa-instagram fa-2xl"
+      },
+
         {
-          "prenom": "Max",
+          "prenom": "Max Vinkarsiner",
           "typeExperience": "Rédacteur en chef",
-          "presentation": "Je suis passionné par l'horreur sous toutes ses formes, et je m'efforce d'apporter une perspective éclairée sur les jeux d'horreur les plus captivants du moment."
+          "presentation": "Je suis passionné par l'horreur sous toutes ses formes, et je m'efforce d'apporter une perspective éclairée sur les jeux d'horreur les plus captivants du moment.",
+          "image": "max.webp",
+          "icone": "fa-brands fa-twitter fa-2xl"
         }
       ]
     }

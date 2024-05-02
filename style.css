@@ -7,7 +7,7 @@ html, body{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background: red;
+    background: rgb(167, 150, 150);
  }
  .logo{
     display: flex;
@@ -81,3 +81,160 @@ html, body{
     width: 100%;
     height: 100%;
 }
+
+.fond h1{
+   text-align: center;
+   color: #FFFFFF;
+background: #333333;
+text-shadow: 0 -1px 4px #FFF, 0 -2px 10px #ff0, 0 -10px 20px #ff8000, 0 -18px 40px #F00;
+color: #FFFFFF;
+background: #333333;
+}
+.fond p{
+   text-align: center;
+   color: #FFFFFF;
+   background: #333333;
+   text-shadow: 0 -1px 4px #FFF, 0 -2px 10px #ff0, 0 -10px 20px #ff8000, 0 -18px 40px #F00;
+   color: #FFFFFF;
+   background: #333333;
+}
+.fond h4{
+   text-align: center;
+   color: #FFFFFF;
+   background: #333333;
+   text-shadow: 0 -1px 4px #FFF, 0 -2px 10px #ff0, 0 -10px 20px #ff8000, 0 -18px 40px #F00;
+   color: #FFFFFF;
+   background: #333333;
+}
+.themesIcons{
+   background: #bd8e25;
+   border: 2px solid;
+   border-radius: 5px;
+   -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+   box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+}
+
+.themesIconshover::before {
+   transform: scale(1.1);
+   box-shadow: 0 0 15px #01380b;
+}
+.themesIcons:hover{
+    color: #053412;
+   box-shadow: 0 0 5px #bd8e25;
+   text-shadow: 0 0 5px black ;
+
+}
+.mage{
+   width: 450px;
+    height: 450px;
+    object-fit: cover;
+    border: 2px solid;
+}
+
+#articles{
+   display: flex;
+    flex-direction: row;
+    gap: 36px;
+    width: 100vw;
+    overflow: scroll;
+   
+}
+.ecrire a{
+   display: flex;
+   justify-content: center;
+   border: 2px solid;
+   text-decoration: none;
+   text-transform: uppercase;
+   color: white;
+   background: #4125bd;
+   border: 2px solid;
+   border-radius: 5px;
+   -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+   box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+}
+.ecrire h3{
+   display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+}
+.ecrire a:hover{
+   color: #090534;
+   box-shadow: 0 0 5px #bd8e25;
+   text-shadow: 0 0 5px rgb(0, 0, 0) ;
+
+}
+#auteurs img{
+   width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 100%;
+}
+#auteurs{
+ display: flex;
+ gap: 20px;
+ margin: 20px;
+}
+#auteurs h2{
+   text-align: center;
+    text-transform: math-auto;
+}
+#auteurs h3{
+   text-align: center;
+   text-transform: math-auto;
+}
+.aut{
+   display: flex;
+   flex-direction: column;
+    align-items: center;
+    -webkit-box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+-moz-box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+}
+
+.themesIconshover::before {
+   transform: scale(1.1);
+   box-shadow: 0 0 15px #01380b;
+}
+
+
+.aut:hover{
+   
+   box-shadow: 0 0 5px #bd8e25;
+   text-shadow: 0 0 5px black ;
+transition: all 0.5s ease-in-out;
+}
+#phraseAccroche h1{
+text-align: center;
+text-shadow: 0px 0px 5px #638253;
+
+}
+.themesfin{
+   display: flex;
+    flex-direction: column;
+    align-items: center;
+    -webkit-box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+-moz-box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+border-radius: 32px;
+}
+.themesfin:hover{
+   box-shadow: 0 0 5px #bd8e25;
+   text-shadow: 0 0 5px black ;
+transition: all 0.5s ease-in-out;
+}
+.icon{
+   margin: 23px;
+}
+
+
+.note{
+   width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 27px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+
+
+
